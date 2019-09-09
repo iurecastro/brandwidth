@@ -1,0 +1,1 @@
+To run the project just download the files in the php server root folder;
